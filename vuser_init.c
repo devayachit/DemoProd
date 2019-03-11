@@ -6,5 +6,6 @@ vuser_init()
 
 Demo()
 {
-	lr_output_message( "We are on iteration #%s", lr_eval_string( "{iteration}" );
+	lr_output_message( "We are on iteration #%s", lr_eval_string( "{iteration}" ));
+	                  return(1);
 }
