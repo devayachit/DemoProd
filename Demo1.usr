@@ -1,7 +1,7 @@
 [General]
 Type=Multi
 DefaultCfg=default.cfg
-ParameterFile=
+ParameterFile=Demo1.prm
 GlobalParameterFile=
 NewFunctionHeader=1
 RunType=cci
@@ -35,7 +35,7 @@ Default Profile=default.cfg
 [ExtraFiles]
 globals.h=
 [Modified Actions]
-vuser_init=0
+vuser_init=1
 Action=0
 vuser_end=0
 [Recorded Actions]

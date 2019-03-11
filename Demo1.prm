@@ -1,0 +1,8 @@
+[parameter:iteration]
+Format="%lu"
+GenerateNewVal="EachIteration"
+MaxValue="100"
+MinValue="1"
+OriginalValue=""
+ParamName="iteration"
+Type="Random"
